@@ -11,15 +11,19 @@ This project was carried out for educational aims for visualizing mechanics whic
 Launch:
 $ python3 lunar_phases.py
 
-TEST CASE > Lets trying to define age of Lunar on March 2005?
 
-PATTERN OF OUTPUT:
+Test Case: Lets trying to define age of Lunar on March 2005?
+
+
+Pattern:
 
 {actual day of choosing month} {icon of lunar stage}
 
 
 Output >
+
 Year: 2005
+
 Month: 3
 
 1 🌖	2 🌖	3 🌗	4 🌗	5 🌗	6 🌗	7 🌘	8 🌘	9 🌘	10 🌑	11 🌑	12 🌑	13 🌑	14 🌒	15 🌒	16 🌒	17 🌒	18 🌓	19 🌓	20 🌓	21 🌓	22 🌔	23 🌔	24 🌔	25 🌕	26 🌕	27 🌕	28 🌕	29 🌖	30 🌖	31 🌖
