@@ -12,8 +12,11 @@ Launch:
 $ python3 lunar_phases.py
 
 TEST CASE > Lets trying to define age of Lunar on March 2005?
+
 PATTERN OF OUTPUT:
+
 {actual day of choosing month} {icon of lunar stage}
+
 
 Output >
 Year: 2005
