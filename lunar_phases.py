@@ -11,7 +11,7 @@ def lunar_phases(day):
 	day_of_new = date(2000, 1, 6) 
 
 	displacement_days = (day - day_of_new).days
-	lunar_age = fmod(displacement_days, PERIOD)
+	lunar_age = fmod(displacement_days, AGE)
 	icon_index = int(lunar_age / (AGE / len(lunar_views)))
 
 	return lunar_views[icon_index]
